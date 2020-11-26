@@ -1,1 +1,1 @@
-"# new-pitch" 
+# new-pitch
